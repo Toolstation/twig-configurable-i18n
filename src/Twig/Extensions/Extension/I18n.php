@@ -42,7 +42,7 @@ class I18n extends Twig_Extensions_Extension_I18n implements \Twig_Extension_Ini
             }
         }
 
-        parent::initRuntime($environment);
+//        parent::initRuntime($environment);
     }
 
 
